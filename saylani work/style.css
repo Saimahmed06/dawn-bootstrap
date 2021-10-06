@@ -1,0 +1,174 @@
+
+    li {
+  display: inline;
+   margin: 0%;
+  font-size: 10px;
+  padding-right: 30px ;
+}
+.sss{
+    display: inline;
+}
+
+
+.topnav-list{
+    display: inline;
+
+}
+    .topnav {
+  background-color:black;
+  overflow: hidden;
+  
+}
+    .topnav-list{
+    
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+.topnav-list:hover { 
+    
+  background-color:white;
+  color: black;
+}
+.topnav-list.active {
+    display: inline;
+  background-color: #4CAF50;
+  color: white;
+}
+li {
+  display: inline;
+   margin: 0%;
+  font-size: 10px;
+  padding-right: 30px ;
+}
+ h2{
+      text-align: center;
+      margin: 0.6px;
+      
+}
+.bbb{
+    text-align: center;
+    padding: 10%;
+    
+
+}
+.ppp{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+    border: 0 solid #d2d6dc;
+}
+
+#saim{
+    
+    font-weight: bold;
+    align:top ;
+    
+}
+#line{
+  font-weight: bold;
+  padding: 100px;
+}
+.column {
+  float: left;
+  width: 200px;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.middlelist{
+  text-align: right;
+  word-spacing: 10px;
+
+}
+#ol{
+  background-color: black;
+}
+.ggg{
+  text-decoration: rgb(49, 48, 48);
+}
+#line1{
+  font-weight: bold;
+  padding: 20px;
+}
+.column1 {
+  float: left;
+  width: 200px;
+  padding: 0px;
+}
+
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column2 {
+  float: left;
+  width: 300px;
+  padding: 30px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.saim1{
+    
+  font-weight: bold;
+ text-align:top ;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100px;
+  
+}
+.saim5{
+  display: inline-block;
+}
+.saim6{
+  background-color: black;
+  overflow: hidden;
+}
+.saim9{
+  color: #d2d6dc;
+}
+
+
+
+.container{
+  max-width: 1600px;
+  margin: auto;
+  color: aliceblue;
+  
+}
+
+.footer{
+  padding: 70px;
+  
+}
+.row5{
+  display: flex;
+  flex-wrap: wrap;
+  color: aliceblue;
+  
+}
+.footer-col{
+  width: 100px;
+  padding: 50px;
+ 
+}
